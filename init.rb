@@ -1,4 +1,4 @@
-Redmine::Plugin.register :redmine_gantt_issues_topmenu
+Redmine::Plugin.register :redmine_gantt_issues_topmenu do
   name 'Redmine Gantt Issues Topmenu'
   author 'zentrification'
   description 'Shows issues and gantt chart links on top menu'
